@@ -1,7 +1,6 @@
 # 42-get_next_line
-<br>
+
 ## How to use
-<br>
 
 To clone the repository:
 ```
