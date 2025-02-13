@@ -16,4 +16,4 @@ The bonus tasks for the `get_next_line` project involve two enhancements. First,
 
 ---
 
-Thanks for reading, I hope you enjoy the project!  🚀
+Thanks for reading, I hope you enjoy the project!  🤖
