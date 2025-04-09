@@ -1,4 +1,4 @@
-# 🧩 42-get_next_line - 
+# 🧩 42-get_next_line - Mastering File Reading in C
 
 Welcome to my implementation of the `get_next_line` project for the 42 curriculum! This repository contains the project aimed at mastering file reading in C.
 
@@ -29,7 +29,7 @@ The project includes:
     - `re` (recompile everything)
   - Detailed comments and documentation for code clarity.
  
-### **Bonus Part**
+### **🎯 Bonus Part**
 The bonus tasks for the `get_next_line` project involve two enhancements:
   1. Implement `get_next_line()` using only one static variable.
   2. Modify the function to handle multiple file descriptors
