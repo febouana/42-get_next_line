@@ -1,4 +1,4 @@
-# 🧩 42-get_next_line - Mastering File Reading in C
+# 📖 42-get_next_line - Mastering File Reading in C
 
 Welcome to my implementation of the `get_next_line` project for the 42 curriculum! This repository contains the project aimed at mastering file reading in C.
 
