@@ -60,5 +60,6 @@ make
 ```
 ### **🚀 Using the library**
 ```
-#include "get_next_line[_bonus].h"
+#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 ```
