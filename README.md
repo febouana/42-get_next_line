@@ -58,7 +58,7 @@ git clone https://github.com/febouana/42-get_next_line.git
 cd 42-get_next_line
 make
 ```
-### **🚀 Running the program**
+### **🚀 Using the library**
 ```
-./get_next_line [file_descriptor]
+#include "get_next_line[_bonus].h"
 ```
